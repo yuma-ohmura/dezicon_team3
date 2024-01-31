@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>デジタルコンテンツチーム3 SIO成果物説明ページ</title>
+        <style>
+            body{
+                background-color: #FFC778;
+            }
+            .double{
+                border: double 5px gray;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="double">使用方法</h1>
+        <p>こちらが使用方法となります．</p>
+        <iframe src="file:///C:/Users/USER/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/%E3%83%87%E3%82%B8%E3%82%B3%E3%83%B3Web%E3%83%9A%E3%83%BC%E3%82%B8%20-%20%E3%82%B3%E3%83%94%E3%83%BC/%E3%83%87%E3%82%B8%E3%82%B3%E3%83%B3%E4%BD%BF%E7%94%A8%E8%AA%AC%E6%98%8E.pdf"width="100%"height="200%"></iframe>
+    </body>
+    
+</html>
